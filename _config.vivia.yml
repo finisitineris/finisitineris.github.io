@@ -38,19 +38,12 @@ categories:
   max_depth:              # Maximum depth of categories displayed in the widget (null for unlimited)
 
 # Personal info
-avatar: 
-author: finisitineris
-subtitle: This is the subtitle
+author: 终末之旅
+subtitle: 终末之旅的小窝
 links:
-  - name: Twitter
-    icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
-    url: https://twitter.com
-  - name: Steam
-    icon: fa-brands fa-steam
-    url: https://store.steampowered.com
   - name: GitHub
-    icon: fa-brands fa-github
-    url: https://github.com
+    icon: fa-brands fa-github # Find icon codes at https://fontawesome.com/search
+    url: https://github.com/finisitineris/
 
 comment:
   valine:

@@ -1,11 +1,11 @@
-title: Hexo
+title: 终末之旅
 subtitle: ''
 description: ''
 keywords: null
 author: John Doe
 language: en
 timezone: ''
-url: http://example.com
+url: https://finisitineris.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
